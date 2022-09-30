@@ -2,16 +2,22 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+    Descripción: La clase permite que el tanque avance en función a las teclas 
+    Autor: Brenda Janet Rodríguez Salazar
+    Fecha: septiembre-2022
+*/
+
 public class PlayerCantroller : MonoBehaviour
 {
-    // Start is called before the first frame update
+    //Declaración de varianles
     public float velocidad = 20;
     void Start()
     {
         
     }
-
-    // Update is called once per frame
+    //Permite que el carro avance en funcion de las teclas, de igual forma permite girar para 
+    // evitar y superar los obstaculos 
     void Update()
     {
         float avanza = Input.GetAxis("Vertical");
