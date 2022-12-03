@@ -81,6 +81,8 @@ Mist es una gatita hambrienta y su dueña Aryne va en busca de comida para alime
   * > [Desafío](https://github.com/janet-rs/Unity/tree/master/Unidad5/Challenge)
   * > [Video](https://utnorteguanajuato-my.sharepoint.com/:v:/g/personal/1219101114_alumnos_utng_edu_mx/EQI8hv0VblZNqUATcMyC72QBw3yQ67iTPAuMsY1tjqoPSQ?e=Z9dXkx)
   * > [Quiz](https://utnorteguanajuato-my.sharepoint.com/:i:/g/personal/1219101114_alumnos_utng_edu_mx/EdrudR0U0NVHj0FnqXLpgwUBcxGIk37eHY_11b1HeOHvpg?e=oapZhq)
+* ### Juego
+  * > [Assets](https://drive.google.com/file/d/1V6zEhWcbR7-hZ-i8Rbr4qTtFsERNUtTn/view?usp=share_link)
 
 ## Autores
 Brenda Janet Rodriguez Salazar GDGS2102
